@@ -6,6 +6,26 @@ Este é um exemplo trabalho que inclui um arquivo de áudio.
 
 ## Ouça o Áudio
 # Meu Projeto 🎉
+🤖 - :robot:
+👾 - :space_invader:
+🤖 - :robot:
+🦾 - :mechanical_arm:
+🦿 - :mechanical_leg:
+🔧 - :wrench:
+⚙️ - :gear:
+💻 - :laptop:
+📱 - :mobile_phone:
+🖥️ - :desktop_computer:
+🕹️ - :joystick:
+🔌 - :electric_plug:
+🧠 - :brain:
+🕵️‍♂️ - :detective:
+🚀 - :rocket:
+🛰️ - :satellite:
+🛠️ - :hammer_and_wrench:
+⚡ - :zap:
+📡 - :satellite_antenna:
+🔍 - :mag_right:
 
 Bem-vindo ao meu projeto! 🚀
 
