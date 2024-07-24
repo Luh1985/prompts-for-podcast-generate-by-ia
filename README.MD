@@ -13,6 +13,9 @@ src="https://www.https://www.youtube.com/watch?v=NOIrGsyJ72k"
   <source src="C:\Users\lucim\OneDrive\Área de Trabalho\Ia Para Crianças.mp3" type="audio/mpeg">
 </audio>
 
+<img src="robo.png" alt="Imagem de Exemplo" width="300"/>
+
+
 # O que é Inteligência Artificial?
 
 Inteligência Artificial, ou IA, é como ensinar computadores a pensar e resolver problemas, como se fossem pessoas. Imagine que um computador pode aprender a jogar um jogo ou ajudar você a encontrar informações na internet.
