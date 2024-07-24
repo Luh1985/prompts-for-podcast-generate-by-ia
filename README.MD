@@ -8,9 +8,7 @@ Este é um exemplo trabalho que inclui um arquivo de áudio.
 
 Aqui está um exemplo de áudio:
 
-<audio controls>
-  <source src="Ia para crianças.mp3" type="audio/mpeg">
-</audio>
+<iframe width="560" height="315" src="https://www.https://www.youtube.com/watch?v=NOIrGsyJ72k" frameborder="0" allowfullscreen></iframe>
 
 # O que é Inteligência Artificial?
 
