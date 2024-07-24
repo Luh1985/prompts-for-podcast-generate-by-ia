@@ -1,6 +1,7 @@
 # Podcast
 
-src/prompts/robot like in wall-e movie.jpg
+![Descrição da imagem](caminho/para/your-image.png)
+
 
 
    
