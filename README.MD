@@ -1,4 +1,4 @@
-# main.Podcast
+# Podcast
 def greet():
     return "Hello, GitHub!"
 
