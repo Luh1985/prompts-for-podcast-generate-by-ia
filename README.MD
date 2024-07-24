@@ -10,7 +10,6 @@ Aqui está um exemplo de áudio:
 
 <audio controls>
   <source src="Ia para crianças.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
 </audio>
 
 # O que é Inteligência Artificial?
