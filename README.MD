@@ -1,15 +1,12 @@
 <p align="center">
 <img 
     src="./assets/cover.png"
-    width="300"
+    width="100"
 />
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
+<a 
 </a>
 <a href="https://dio.me/">
 <img 
