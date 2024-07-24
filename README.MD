@@ -2,7 +2,7 @@
 
 # Apresentação
 
-Este é um exemplo de repositório que inclui um arquivo de áudio.
+Este é um exemplo trabalho que inclui um arquivo de áudio.
 
 ## Ouça o Áudio
 
