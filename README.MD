@@ -7,8 +7,23 @@ Este é um exemplo trabalho que inclui um arquivo de áudio.
 ## Ouça o Áudio
 # Meu Projeto 🎉
 🤖 - :robot:
-👾 - :space_invader:
-🤖 - :robot:
+Olá [Nome do Desenvolvedor],
+
+Espero que esteja bem.
+
+Gostaria de me desculpar por não conseguir enviar o áudio curto que prometi. Infelizmente, tive alguns imprevistos técnicos que impediram a conclusão do envio. Compreendo que isso possa ter causado algum transtorno e lamento sinceramente por qualquer inconveniente.
+
+Estou trabalhando para resolver o problema o mais rápido possível e enviarei o áudio assim que estiver pronto. Agradeço pela sua compreensão e paciência.
+
+Se houver algo mais que eu possa fazer enquanto isso, por favor, me avise.
+
+Obrigado e desculpe novamente pelo transtorno.
+
+Atenciosamente,
+[Seu Nome]
+
+
+##🤖 - :robot:
 🦾 - :mechanical_arm:
 🦿 - :mechanical_leg:
 🔧 - :wrench:
@@ -26,6 +41,26 @@ Este é um exemplo trabalho que inclui um arquivo de áudio.
 ⚡ - :zap:
 📡 - :satellite_antenna:
 🔍 - :mag_right:
+🔠 - :input_latin_uppercase: (Letras maiúsculas)
+🔡 - :input_latin_lowercase: (Letras minúsculas)
+🔤 - :input_latin_letters: (Letras do alfabeto)
+🅰️ - :a: (Letra A)
+🅱️ - :b: (Letra B)
+🅾️ - :o: (Letra O)
+🅿️ - :p: (Letra P)
+🆎 - :ab: (Letras A e B)
+🆑 - :cl: (Letra L)
+🆘 - :sos: (Letra S)
+🆙 - :top: (Letra T)
+🆔 - :id: (Identificação)
+⓵ - :one: (Número 1 em círculo)
+⓶ - :two: (Número 2 em círculo)
+⓷ - :three: (Número 3 em círculo)
+⓹ - :five: (Número 5 em círculo)
+⓺ - :six: (Número 6 em círculo)
+⓻ - :seven: (Número 7 em círculo)
+⓽ - :nine: (Número 9 em círculo)
+⓾ - :ten: (Número 10 em círculo)
 
 Bem-vindo ao meu projeto! 🚀
 
