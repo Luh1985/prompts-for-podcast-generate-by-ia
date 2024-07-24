@@ -6,9 +6,10 @@ Este é um exemplo trabalho que inclui um arquivo de áudio.
 
 ## Ouça o Áudio
 
-Aqui está um exemplo de áudio:
+Aqui está um exemplo de video sobre Ia para crianças.
 
 src="https://www.https://www.youtube.com/watch?v=NOIrGsyJ72k" 
+src=""C:\Users\lucim\OneDrive\Área de Trabalho\podcast_editado.MP3"" 
 
 # O que é Inteligência Artificial?
 
