@@ -10,7 +10,7 @@ Aqui está um exemplo de video sobre Ia para crianças.
 
 src="https://www.https://www.youtube.com/watch?v=NOIrGsyJ72k" 
 <audio controls>
-  <source src="C:\Users\lucim\OneDrive\Área de Trabalho\Ia Para Crianças.mp3" type="audio/mpeg">
+  <source src= "Ia Para Crianças.mp3" type="audio/mpeg">
 </audio>
 
 <img src="robo.png" alt="Imagem de Exemplo" width="300"/>
