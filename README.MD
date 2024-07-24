@@ -2,12 +2,12 @@
 
 # Apresentação
 
-Este é um exemplo trabalho que inclui um arquivo de áudio.
+Este é um exemplo trabalho que não inclui um arquivo de áudio.
 
 ## Ouça o Áudio
 # Meu Projeto 🎉
 🤖 - :robot:
-Olá [Nome do Desenvolvedor],
+Olá 
 
 Espero que esteja bem.
 
@@ -19,48 +19,10 @@ Se houver algo mais que eu possa fazer enquanto isso, por favor, me avise.
 
 Obrigado e desculpe novamente pelo transtorno.
 
-Atenciosamente,
-[Seu Nome]
+
 
 
 ##🤖 - :robot:
-🦾 - :mechanical_arm:
-🦿 - :mechanical_leg:
-🔧 - :wrench:
-⚙️ - :gear:
-💻 - :laptop:
-📱 - :mobile_phone:
-🖥️ - :desktop_computer:
-🕹️ - :joystick:
-🔌 - :electric_plug:
-🧠 - :brain:
-🕵️‍♂️ - :detective:
-🚀 - :rocket:
-🛰️ - :satellite:
-🛠️ - :hammer_and_wrench:
-⚡ - :zap:
-📡 - :satellite_antenna:
-🔍 - :mag_right:
-🔠 - :input_latin_uppercase: (Letras maiúsculas)
-🔡 - :input_latin_lowercase: (Letras minúsculas)
-🔤 - :input_latin_letters: (Letras do alfabeto)
-🅰️ - :a: (Letra A)
-🅱️ - :b: (Letra B)
-🅾️ - :o: (Letra O)
-🅿️ - :p: (Letra P)
-🆎 - :ab: (Letras A e B)
-🆑 - :cl: (Letra L)
-🆘 - :sos: (Letra S)
-🆙 - :top: (Letra T)
-🆔 - :id: (Identificação)
-⓵ - :one: (Número 1 em círculo)
-⓶ - :two: (Número 2 em círculo)
-⓷ - :three: (Número 3 em círculo)
-⓹ - :five: (Número 5 em círculo)
-⓺ - :six: (Número 6 em círculo)
-⓻ - :seven: (Número 7 em círculo)
-⓽ - :nine: (Número 9 em círculo)
-⓾ - :ten: (Número 10 em círculo)
 
 Bem-vindo ao meu projeto! 🚀
 
