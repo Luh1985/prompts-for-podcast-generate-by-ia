@@ -1,5 +1,18 @@
 # Podcast
 
+# Meu Repositório
+
+Este é um exemplo de repositório que inclui um arquivo de áudio.
+
+## Ouça o Áudio
+
+Aqui está um exemplo de áudio:
+
+<audio controls>
+  <source src="audio.mp3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
+
 # O que é Inteligência Artificial?
 
 Inteligência Artificial, ou IA, é como ensinar computadores a pensar e resolver problemas, como se fossem pessoas. Imagine que um computador pode aprender a jogar um jogo ou ajudar você a encontrar informações na internet.
